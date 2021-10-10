@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\TALab2\TALab2\bin\Debug\TALab2.exe.config
+C:\Users\Acer\source\repos\TALab2\TALab2\bin\Debug\TALab2.exe
+C:\Users\Acer\source\repos\TALab2\TALab2\bin\Debug\TALab2.pdb
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\App.g.cs
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2_MarkupCompile.cache
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2_MarkupCompile.lref
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\MainWindow.baml
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.g.resources
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.Properties.Resources.resources
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.exe
+C:\Users\Acer\source\repos\TALab2\TALab2\obj\Debug\TALab2.pdb
