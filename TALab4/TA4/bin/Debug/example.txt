@@ -1,0 +1,6 @@
+void main ()
+{
+for (i = 0; i < x )
+{
+int x = 3;
+}

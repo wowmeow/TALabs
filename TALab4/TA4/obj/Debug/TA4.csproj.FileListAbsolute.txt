@@ -1,0 +1,14 @@
+C:\Users\Alla\Desktop\TA4\TA4\obj\Debug\TA4.csprojAssemblyReference.cache
+C:\Users\Alla\Desktop\TA4\TA4\obj\Debug\TA4.csproj.CoreCompileInputs.cache
+C:\Users\Alla\Desktop\TA4\TA4\bin\Debug\TA4.exe.config
+C:\Users\Alla\Desktop\TA4\TA4\bin\Debug\TA4.exe
+C:\Users\Alla\Desktop\TA4\TA4\bin\Debug\TA4.pdb
+C:\Users\Alla\Desktop\TA4\TA4\obj\Debug\TA4.exe
+C:\Users\Alla\Desktop\TA4\TA4\obj\Debug\TA4.pdb
+C:\Users\Acer\Desktop\TA4\TA4\bin\Debug\TA4.exe.config
+C:\Users\Acer\Desktop\TA4\TA4\bin\Debug\TA4.exe
+C:\Users\Acer\Desktop\TA4\TA4\bin\Debug\TA4.pdb
+C:\Users\Acer\Desktop\TA4\TA4\obj\Debug\TA4.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\TA4\TA4\obj\Debug\TA4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\TA4\TA4\obj\Debug\TA4.exe
+C:\Users\Acer\Desktop\TA4\TA4\obj\Debug\TA4.pdb
