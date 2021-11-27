@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TALab6\TALab6\bin\Debug\TALab6.exe.config
+C:\Users\Acer\source\repos\TALab6\TALab6\bin\Debug\TALab6.exe
+C:\Users\Acer\source\repos\TALab6\TALab6\bin\Debug\TALab6.pdb
+C:\Users\Acer\source\repos\TALab6\TALab6\obj\Debug\TALab6.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TALab6\TALab6\obj\Debug\TALab6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TALab6\TALab6\obj\Debug\TALab6.exe
+C:\Users\Acer\source\repos\TALab6\TALab6\obj\Debug\TALab6.pdb

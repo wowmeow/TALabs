@@ -1,0 +1,50 @@
+<block rows="4" columns="4">
+	<column width="20" valign="center">
+		<row halign="center" bgcolor="2" textcolor="15" height="6">
+		a1
+		</row>
+		<row halign="center" bgcolor="0" textcolor="5" height="6">
+		</row>
+		<row halign="center" bgcolor="3" textcolor="5" height="6">
+		c1
+		</row>
+		<row halign="center" bgcolor="0" textcolor="5" height="6">
+		</row>
+	</column>
+	<column width="20" valign="center">
+		<row halign="center" bgcolor="0" textcolor="15" height="6">
+		</row>
+		<row halign="center" bgcolor="4" textcolor="5" height="6">
+		b2
+		</row>
+		<row halign="center" bgcolor="0" textcolor="15" height="6">
+		</row>
+		<row halign="center" bgcolor="5" textcolor="15" height="6">
+		d2
+		</row>
+	</column>
+	<column width="20" valign="center">
+		<row halign="center" bgcolor="6" textcolor="15" height="6">
+		a3
+		</row>
+		<row halign="center" bgcolor="0" textcolor="11" height="6">
+		</row>
+		<row halign="center" bgcolor="7" textcolor="11" height="6">
+		c3
+		</row>
+		<row halign="center" bgcolor="0" textcolor="11" height="6">
+		</row>
+	</column>
+	<column width="20" valign="center">
+		<row halign="center" bgcolor="0" textcolor="15" height="6">
+		</row>
+		<row halign="center" bgcolor="8" textcolor="11" height="6">
+		b4
+		</row>
+		<row halign="center" bgcolor="0" textcolor="11" height="6">
+		</row>
+		<row halign="center" bgcolor="9" textcolor="11" height="6">
+		d4
+		</row>
+	</column>
+</block>
